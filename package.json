@@ -14,7 +14,7 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-transition-group": "^4.4.1",
-    "swiper": "^6.3.4",
+    "swiper": "^6.5.1",
     "react-stack-grid": "",
     "react-fitted-image":"",
     "react-flexbox-grid":""
